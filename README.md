@@ -1,1 +1,1 @@
-# Este es mi primelr repositorio
+# Este es mi primer repositorio
